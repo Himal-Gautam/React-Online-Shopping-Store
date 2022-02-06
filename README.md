@@ -7,7 +7,8 @@ React hooks & states 19/12/2021 - Sunday
 These files are from "src" folder of app.
 Deployed Link :- https://react-online-shopping-store.netlify.app
 
-# Task of React- Day -1 : React 18/12/2021 - Saturday
+# Task of React- Day -1 :
+React 18/12/2021 - Saturday
 # Basic-React-Practice
 These files are from "src" folder of app.
 Source Code Link :- https://github.com/Himal-Gautam/Basic-React-Practice
