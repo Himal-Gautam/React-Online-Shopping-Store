@@ -1,4 +1,5 @@
-# NOTE :- As I had conversation with lavish sir i am submitting both task in one file only
+# NOTE :- 
+As I had conversation with lavish sir i am submitting both task in one file only
 
 # Task of React- Day -2 : React hooks & states 19/12/2021 - Sunday
 # React-Online-Shopping-Store
